@@ -19,3 +19,21 @@ Je suis SOILIHI Kyllian, un jeune développeur passionné à la recherche d'un s
 ![HTML](https://img.shields.io/badge/HTML-222?style=for-the-badge&logo=html5&logoColor=orange)  ![CSS](https://img.shields.io/badge/css-222?style=for-the-badge&logo=css3&logoColor=blue) ![JAVASCRIPT](https://img.shields.io/badge/javascript-222?style=for-the-badge&logo=javascript&logoColor=yellow) ![PHP](https://img.shields.io/badge/php-222?style=for-the-badge&logo=php&logoColor=) ![MYSQL](https://img.shields.io/badge/MYSQL-222?style=for-the-badge&logo=mysql&logoColor=) ![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-222?style=for-the-badge&logo=phpmyadmin&logoColor=) ![C](https://img.shields.io/badge/c-222?style=for-the-badge&logo=c&logoColor=) ![C++](https://img.shields.io/badge/c++-222?style=for-the-badge&logo=c&logoColor=)
 
 </div>
+
+## Mes Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=ZeuroHK&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de ZeuroHK" />
+    </td>
+    <td align="center">
+      <img width="340px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=ZeuroHK&count_private=true&layout=compact&theme=blueberry&hide_border=false&langs_count=8" alt="Langages les plus utilisés par ZeuroHK" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="745px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeuroHK&theme=blueberry&hide_border=false" alt="Streak Stats de ZeuroHK" />
+    </td>
+  </tr>
+</table>

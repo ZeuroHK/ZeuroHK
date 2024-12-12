@@ -20,3 +20,20 @@ I'm SOILIHI Kyllian, a young and passionate developer who looking for an industr
 
 </div>
 
+## Mes Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=ZeuroHK&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de ZeuroHK" />
+    </td>
+    <td align="center">
+      <img width="340px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=ZeuroHK&count_private=true&layout=compact&theme=blueberry&hide_border=false&langs_count=8" alt="Langages les plus utilisés par ZeuroHK" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="745px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeuroHK&theme=blueberry&hide_border=false" alt="Streak Stats de ZeuroHK" />
+    </td>
+  </tr>
+</table>
