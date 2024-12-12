@@ -31,9 +31,5 @@ Je suis SOILIHI Kyllian, un jeune développeur passionné à la recherche d'un s
       <img width="340px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=ZeuroHK&count_private=true&layout=compact&theme=blueberry&hide_border=false&langs_count=8" alt="Langages les plus utilisés par ZeuroHK" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="745px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeuroHK&theme=blueberry&hide_border=false" alt="Streak Stats de ZeuroHK" />
-    </td>
-  </tr>
+
 </table>
